@@ -183,7 +183,7 @@
           },
           "title": "A LITTLE BIT ABOUT ME ...",
           "text": "The moment i got accepted for the Technology Production magnet, was when i started developing more skills for my goals in life. It helps me learn new things everyday about how to use technology in anything to enhance it or make it better.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index#content7-q\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index#content2-t\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features4",
