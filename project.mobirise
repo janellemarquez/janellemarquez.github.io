@@ -571,10 +571,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -623,7 +623,7 @@
               "src": "@PROJECT_PATH@/assets/images/signature-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index",
               "title": "",
               "linkInNewWindow": false
             },
