@@ -489,6 +489,10 @@ h6,
   background-color: #51f5b2;
   border-color: #51f5b2;
 }
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-r .mbr-section-title,
 #header3-r .mbr-section-subtitle {
   text-align: center;
