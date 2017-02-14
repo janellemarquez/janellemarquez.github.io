@@ -473,9 +473,6 @@ h6,
 #ext_menu-h .dropdown-item[aria-expanded="true"] {
   color: #475577!important;
 }
-#contacts1-i P {
-  text-align: right;
-}
 #ext_menu-h .hide-buttons .nav-btn {
   display: none !important;
 }
