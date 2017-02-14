@@ -189,25 +189,27 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-6-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallery-6-2000x2666.jpg",
                 "caption": "Aerospace Borchure (Side 2)",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-7-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-7-2000x2666.jpg",
+                "caption": "The Flash Redraw",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-8-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-8-2000x2666.jpg",
+                "caption": "The Hulk Redraw",
+                "active": true
               }
             ],
             "spacing": 1,
