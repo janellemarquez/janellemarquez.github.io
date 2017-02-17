@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "Photoshop",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.11",
     "uniqCompNum": 62,
-    "versionPublish": "3.11",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -215,7 +215,7 @@
             "spacing": 1,
             "showText": true,
             "filter": false,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#829bd7",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
