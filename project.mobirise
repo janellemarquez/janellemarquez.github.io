@@ -908,7 +908,12 @@
           },
           "title": "JANELLE MARQUEZ",
           "text": "<p>⤜↠ &nbsp;The Past Is History,<br>The Future Is Mystery.<br>And Today Is A Gift,<br>That's Why We Call It Present.&nbsp;↞</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a> ",
+          "_styles": {
+            ".mbr-section-lead P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "content5",
@@ -1242,8 +1247,8 @@
             }
           },
           "title": "A LITTLE BIT ABOUT ME ...",
-          "text": "The moment i got accepted for the Technology Production magnet, was when i started developing more skills for my goals in life. It helps me learn new things everyday about how to use technology in anything to enhance it or make it better.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"introduction.html#content2-1h\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "The moment I got accepted for the Technology Production magnet, was when I started improving my talents for my goals in life. I learn new things everyday about how to use technology for a professional career or just recreational.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"introduction.html#content2-1h\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -1321,7 +1326,7 @@
           },
           "title1": "BUSINESS OWNER",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "I want to run a business towards stopmotion animation. This is because i would be able to have a wide space to make still movies. I could also teach people how to make these videos.",
+          "caption1": "I want to run a business towards stopmotion animation. This is because I would be able to have a wide space to make still movies. I could also teach people how to make these films.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1337,7 +1342,7 @@
           },
           "title2": "ANIMATOR",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "I would like to become an animator because i could use many of the skills i know now to make cartoons or movies. This is something i would like to try because i could draw my own characters and make them move.",
+          "caption2": "I would like to become an animator because I could use many of the skills i know now to make cartoons or movies. This is something I would like to try because I could draw my own characters and make them move.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1353,7 +1358,7 @@
           },
           "title3": "ARTIST",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "I would like to become an artist because i enjoy drawing. I could draw things for people if they need it for sometyhing or i could just paint things and sell them.",
+          "caption3": "I would like to become an artist because I enjoy drawing. I could draw things for people if they need it for something or I could just paint compositions and sell them.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1369,7 +1374,7 @@
           },
           "title4": "WORLD TRAVELER",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I would like to become a worl traveler because i would be able to see and experience all the different types of foods and cultures. I could meet new people and see the different lifestyles they have from me.",
+          "caption4": "I would like to become a world traveler because I would be able to see and experience all the different types of foods and cultures. I could meet new people and see the diverse and alien lifestyles they have compared to mine..",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1446,9 +1451,9 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<p>In 2014, i got an app called Stopmotion Studio Pro that allowed me to take pictures and put it all together to make a still life animation. I used it very often so i made a Youtube Channel to share these videos with other people. The more I practiced, the better i got. When it was time for me to apply for a magnet in the middle school i wanted to go in i decided to enroll for Technology Production. I am very thankful i made this decision because i have learned many new things that make me better everyday.</p>",
-          "text2": "In Technology Production i have improved my editing skills. This is very useful for me because i could use this in my videos! In the 2 years that i have been there, i have already leanred the basics of photoshop and a little bit of a variety of other programs. In 2016 i entered a competition for the youth fair about making a brochure about computer engineering. I used what i had learned and ended up getting 1st place! Mr. Pate is my techonology teacher and he has helped me get better in so many ways.",
-          "text3": "<p>Back in 2014, i had also started a Youtube Channel. My videos were not good quality and not entertaining at all. Now, with all of these skills developed in me, i have been very succesful in my channel and have gained subscribers much quicker. The quality and smoothness of the frames have also improved! This is all thanks t a certain class that i joined and from practicing.&nbsp;</p>"
+          "text1": "<p>In 2014, I got an app called Stopmotion Studio Pro that allowed me to take pictures and put it all together to make a still life animation. I used it very often so I made a YouTube Channel to share these videos with other people. The more I practiced, the better my skills were. When it was time for me to apply for a magnet in the middle school i wanted to go to, I decided to enroll for Technology Production. I am very thankful I made this decision because I have learned many new things that make me better everyday.</p>",
+          "text2": "In Technology Production, I have improved my editing skills. This is very useful for me because I could use this in my videos! In the 2 years that i have been here, I have already learned the basics of Photoshop and a variety of other programs. In 2016, I entered a competition for the youth fair about making a brochure about computer engineering. I used what I had learned and ended up getting 1st place! Mr. Pate is my Technology teacher and he has helped me get better in so many ways.",
+          "text3": "<p>As stated in the first paragraph, I had also started a YouTube Channel. My videos were of poor quality and weren't very entertaining. Now, with all of these techniques I have developed, I have been very successful in my channel and have gained over 600 subscribers. The quality and smoothness of the motions have also improved! This is all thanks to a certain class that I joined and from practicing constantly.&nbsp;</p>"
         },
         {
           "_tags": [

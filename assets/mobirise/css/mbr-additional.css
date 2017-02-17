@@ -659,6 +659,9 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #475577!important;
 }
+#header1-1l .mbr-section-lead P {
+  color: #ffffff;
+}
 #content8-1n .mbr-section-title,
 #content8-1n p {
   text-align: right;
