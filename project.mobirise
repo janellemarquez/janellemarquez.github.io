@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -652,7 +652,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12491.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12492.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -710,7 +710,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12491.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12492.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1082,7 +1082,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead P": {
-              "color": "#f28281"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1l",
