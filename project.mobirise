@@ -652,7 +652,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12492.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12495.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -710,7 +710,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12492.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12495.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1082,7 +1082,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead P": {
-              "color": "#ffffff"
+              "color": "#f28281"
             }
           },
           "_anchor": "header1-1l",
