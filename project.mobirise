@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "introduction.html",
+    "currentPage": "Videos",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "3.11",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -108,7 +108,7 @@
               "src": "@PROJECT_PATH@/assets/images/signature-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index",
+              "link": "introduction.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -357,7 +357,7 @@
               "src": "@PROJECT_PATH@/assets/images/signature-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index",
+              "link": "introduction.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -560,7 +560,7 @@
               "src": "@PROJECT_PATH@/assets/images/signature-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index",
+              "link": "introduction.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -591,7 +591,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x1249.jpg",
@@ -649,10 +649,10 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12492.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x12491.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -703,14 +703,14 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "msg-box4-1x",
+          "_anchor": "msg-box4-23",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x1249.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x1249-1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -732,7 +732,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=CETa2f4x2F8",
+              "src": "https://www.youtube.com/watch?v=Y8NOyKlT358",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -765,7 +765,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x1249.jpg",
@@ -790,7 +790,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=CETa2f4x2F8",
+              "src": "https://www.youtube.com/watch?v=kpleENZKxmE",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -823,7 +823,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x1249.jpg",
@@ -848,7 +848,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=CETa2f4x2F8",
+              "src": "https://www.youtube.com/watch?v=0eAwbTXX52M",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -881,7 +881,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x1249.jpg",
@@ -906,7 +906,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=CETa2f4x2F8",
+              "src": "https://www.youtube.com/watch?v=oByLuKltPTc",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -939,7 +939,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/xghs-2000x1249.jpg",
@@ -964,7 +964,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=CETa2f4x2F8",
+              "src": "https://www.youtube.com/watch?v=V0kETW-Ezg8",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1140,7 +1140,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead P": {
-              "color": "#f28281"
+              "color": "#ff0c00"
             }
           },
           "_anchor": "header1-1l",
