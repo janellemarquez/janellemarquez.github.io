@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "videos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 79,
-    "versionPublish": "3.10.7",
+    "uniqCompNum": 81,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -134,12 +134,7 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead P": {
-              "color": "#b8312f"
-            }
-          },
-          "_anchor": "header1-1l",
+          "_anchor": "header1-28",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
@@ -152,16 +147,21 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "JANELLE MARQUEZ",
-          "text": "<p>⤜↠ &nbsp;The Past Is History,<br>The Future Is Mystery.<br>And Today Is A Gift,<br>That's Why We Call It Present.&nbsp;↞</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a> "
+          "title": "Janelle Marquez<br>",
+          "text": "⤜↠ The Past Is History,<br>The Future Is Mystery.<br>And Today Is A Gift,<br>That's Why We Call It Present. ↞<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENTER</a> ",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_inherit": "content5",
@@ -358,7 +358,7 @@
     },
     "introduction.html": {
       "settings": {
-        "title": "Home Page",
+        "title": "Janelle Marquez",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -826,7 +826,7 @@
     },
     "photoshop.html": {
       "settings": {
-        "title": "Adobe Photoshop",
+        "title": "Janelle Marquez",
         "meta_descr": "Site Maker Description",
         "order": 3
       },
@@ -1099,7 +1099,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Contact Form",
+        "title": "Janelle Marquez",
         "meta_descr": "Website Generator Description",
         "order": 4
       },
@@ -1326,7 +1326,7 @@
     },
     "videos.html": {
       "settings": {
-        "title": "Stopmotion Videos",
+        "title": "Janelle Marquez",
         "meta_descr": "Website Builder Description",
         "order": 5
       },
