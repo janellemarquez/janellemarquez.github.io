@@ -134,6 +134,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "header1-28",
           "_params": {
             "parallax": true,
@@ -156,12 +161,7 @@
           },
           "title": "Janelle Marquez<br>",
           "text": "⤜↠ The Past Is History,<br>The Future Is Mystery.<br>And Today Is A Gift,<br>That's Why We Call It Present. ↞<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENTER</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "16px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a> "
         },
         {
           "_inherit": "content5",
