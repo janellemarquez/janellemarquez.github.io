@@ -743,7 +743,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#b8312f",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
