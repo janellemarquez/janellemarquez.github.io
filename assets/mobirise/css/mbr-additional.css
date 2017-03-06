@@ -1,7 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+
+
 
 
 
@@ -475,6 +478,11 @@ h6,
 }
 #header1-28 .mbr-section-lead {
   font-size: 16px;
+  color: #b8312f;
+  font-family: 'Lora', serif;
+}
+#header1-28 .mbr-section-title {
+  font-family: 'Bitter', serif;
 }
 #content8-26 .mbr-section-title,
 #content8-26 p {
@@ -640,6 +648,10 @@ h6,
 #ext_menu-1d .link[aria-expanded="true"],
 #ext_menu-1d .dropdown-item[aria-expanded="true"] {
   color: #475577!important;
+}
+#header3-2b .mbr-section-title,
+#header3-2b .mbr-section-subtitle {
+  text-align: center;
 }
 #ext_menu-1d .hide-buttons .nav-btn {
   display: none !important;
@@ -807,4 +819,8 @@ h6,
 }
 #msg-box4-21 P {
   color: #7e9b9f;
+}
+#social-buttons4-29 .mbr-section-title,
+#social-buttons4-29 .btn-social {
+  color: #fff;
 }

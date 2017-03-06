@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "introduction.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 81,
+    "uniqCompNum": 84,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -109,7 +109,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/j-1-179x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "introduction.html",
@@ -136,7 +136,14 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#b8312f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             }
           },
           "_anchor": "header1-28",
@@ -159,7 +166,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Janelle Marquez<br>",
+          "title": "JM PRODUCTIONS",
           "text": "⤜↠ The Past Is History,<br>The Future Is Mystery.<br>And Today Is A Gift,<br>That's Why We Call It Present. ↞<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a> "
         },
@@ -303,7 +310,7 @@
             "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>901 NW 129 Ave.<br>Miami Florida 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: jmarquez@miamiartsstudion.com<br>\nPhone: +1 (305) 222 - 0123<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/channel/UC5_fRviTPO_iQd0ZXDszm3Q\">Youtube Channe</a>l</li><br></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/channel/UCpAFDzxi2EI-Rc33o0STWvw\">Youtube Channe</a>l</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "jmarquez@miamiartsstudio.com",
@@ -771,7 +778,7 @@
             "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>901 NW 129 Ave.<br>Miami Florida 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: jmarquez@miamiartsstudion.com<br>\nPhone: +1 (305) 222 - 0123<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/channel/UC5_fRviTPO_iQd0ZXDszm3Q\">Youtube Channe</a>l</li><br></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/channel/UCpAFDzxi2EI-Rc33o0STWvw\">Youtube Channe</a>l</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "jmarquez@miamiartsstudio.com",
@@ -1024,6 +1031,109 @@
           "_anchor": "gallery3-14",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Time - Lapse Painting",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/janelle-marquez-girl-with-the-pearl-earring-1-2000x2000.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#2969b0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/janelle-marquez-girl-with-the-pearl-earring-2-2000x2000.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#2969b0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/janelle-marquez-girl-with-the-pearl-earring-3-2000x2000.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#2969b0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/janelle-marquez-girl-with-the-pearl-earring-4-2000x2000.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#2969b0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider3-2a",
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -1436,7 +1546,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250.jpg",
@@ -1493,8 +1603,8 @@
           "_anchor": "msg-box4-1q",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-1.jpg",
@@ -1551,8 +1661,8 @@
           "_anchor": "msg-box4-23",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-2.jpg",
@@ -1609,8 +1719,8 @@
           "_anchor": "msg-box4-1y",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-3.jpg",
@@ -1667,8 +1777,8 @@
           "_anchor": "msg-box4-1z",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-4.jpg",
@@ -1725,8 +1835,8 @@
           "_anchor": "msg-box4-20",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-5.jpg",
@@ -1783,8 +1893,8 @@
           "_anchor": "msg-box4-21",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-6.jpg",
@@ -1825,6 +1935,33 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=V0kETW-Ezg8\" data-toolbar=\"-mbrBtnMove\">Link</a>"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-29",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "EAHforever Channel",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC5_fRviTPO_iQd0ZXDszm3Q\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1843,7 +1980,7 @@
             "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>901 NW 129 Ave.<br>Miami Florida 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: jmarquez@miamiartsstudion.com<br>\nPhone: +1 (305) 222 - 0123<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/channel/UC5_fRviTPO_iQd0ZXDszm3Q\">Youtube Channe</a>l</li><br></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/channel/UCpAFDzxi2EI-Rc33o0STWvw\">Youtube Channe</a>l</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "jmarquez@miamiartsstudio.com",
