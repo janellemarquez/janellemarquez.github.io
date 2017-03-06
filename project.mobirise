@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "photoshop.html",
+    "currentPage": "videos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 84,
+    "uniqCompNum": 90,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1534,19 +1534,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "msg-box4-22",
+          "_anchor": "msg-box4-2c",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "50",
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250.jpg",
@@ -1561,7 +1553,7 @@
             "overlayColor": "#553982",
             "inverse": true,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true
           },
           "media": {
@@ -1582,9 +1574,14 @@
               "size": 250
             }
           },
-          "title": "◈Off With Your Head◈<br>",
-          "text": "(A Stop Motion Music Video.)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=CETa2f4x2F8\" data-toolbar=\"-mbrBtnMove\">Link</a>"
+          "title": "◈Off With Your Head◈",
+          "text": "<p>( A Stop Motion Video )</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=CETa2f4x2F8\" data-toolbar=\"-mbrBtnMove\">Link</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -1592,22 +1589,14 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "msg-box4-1q",
+          "_anchor": "msg-box4-2d",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "imageSize": "50",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1619,7 +1608,7 @@
             "overlayColor": "#553982",
             "inverse": false,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true
           },
           "media": {
@@ -1629,7 +1618,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=Ec5LpUjvutI",
+              "src": "https://www.youtube.com/watch?v=oByLuKltPTc",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1640,9 +1629,14 @@
               "size": 250
             }
           },
-          "title": "◈Lock Me Up◈<br>",
-          "text": "(A Stop Motion Music Video.)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=Ec5LpUjvutI\" data-toolbar=\"-mbrBtnMove\">Link</a>"
+          "title": "◈Cry Baby◈",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=oByLuKltPTc\" data-toolbar=\"-mbrBtnMove\">Link</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -1650,22 +1644,14 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "msg-box4-23",
+          "_anchor": "msg-box4-2e",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1677,123 +1663,7 @@
             "overlayColor": "#553982",
             "inverse": true,
             "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=Y8NOyKlT358",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "◈Doubt◈<br>",
-          "text": "(A Stop Motion Music Video.)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=Y8NOyKlT358\" data-toolbar=\"-mbrBtnMove\">Link</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "msg-box4-1y",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-3.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#553982",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=kpleENZKxmE",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "◈Bad◈<br>",
-          "text": "(A Stop Motion Music Video.)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=kpleENZKxmE\" data-toolbar=\"-mbrBtnMove\">Link</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "msg-box4-1z",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-4.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#553982",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true
           },
           "media": {
@@ -1815,8 +1685,13 @@
             }
           },
           "title": "◈So What◈",
-          "text": "(A Stop Motion Music Video.)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=0eAwbTXX52M\" data-toolbar=\"-mbrBtnMove\">Link</a>"
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=0eAwbTXX52M\" data-toolbar=\"-mbrBtnMove\">Link</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -1824,22 +1699,14 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "msg-box4-20",
+          "_anchor": "msg-box4-2f",
           "_params": {
             "imageSize": 50,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1851,7 +1718,7 @@
             "overlayColor": "#553982",
             "inverse": false,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true
           },
           "media": {
@@ -1861,7 +1728,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=oByLuKltPTc",
+              "src": "https://www.youtube.com/watch?v=Ec5LpUjvutI",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1872,67 +1739,14 @@
               "size": 250
             }
           },
-          "title": "◈Cry Baby◈<br>",
-          "text": "(A Stop Motion Music Video.)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=oByLuKltPTc\" data-toolbar=\"-mbrBtnMove\">Link</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
+          "title": "◈Lock Me Up◈",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=Ec5LpUjvutI\" data-toolbar=\"-mbrBtnMove\">Link</a>",
           "_styles": {
             "H3": {
               "color": "#ffffff"
-            },
-            "P": {
-              "color": "#7e9b9f"
             }
-          },
-          "_anchor": "msg-box4-21",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/red-and-black-2000x1250-6.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#553982",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=V0kETW-Ezg8",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "◈Im Gonna Show You Crazy◈",
-          "text": "(A Stop Motion Music Video.)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=V0kETW-Ezg8\" data-toolbar=\"-mbrBtnMove\">Link</a>"
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -1959,7 +1773,7 @@
             "overlayColor": "#222"
           },
           "text": "EAHforever Channel",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC5_fRviTPO_iQd0ZXDszm3Q\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC5_fRviTPO_iQd0ZXDszm3Q\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
