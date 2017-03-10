@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "videos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1534,6 +1534,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box4-2c",
           "_params": {
             "imageSize": "50",
@@ -1576,12 +1581,7 @@
           },
           "title": "◈Off With Your Head◈",
           "text": "<p>( A Stop Motion Video )</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=CETa2f4x2F8\" data-toolbar=\"-mbrBtnMove\">Link</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=CETa2f4x2F8\" data-toolbar=\"-mbrBtnMove\">Link</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1589,6 +1589,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box4-2d",
           "_params": {
             "imageSize": "50",
@@ -1631,12 +1636,7 @@
           },
           "title": "◈Cry Baby◈",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=oByLuKltPTc\" data-toolbar=\"-mbrBtnMove\">Link</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=oByLuKltPTc\" data-toolbar=\"-mbrBtnMove\">Link</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1644,6 +1644,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box4-2e",
           "_params": {
             "imageSize": 50,
@@ -1686,12 +1691,7 @@
           },
           "title": "◈So What◈",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=0eAwbTXX52M\" data-toolbar=\"-mbrBtnMove\">Link</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=0eAwbTXX52M\" data-toolbar=\"-mbrBtnMove\">Link</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1699,6 +1699,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box4-2f",
           "_params": {
             "imageSize": 50,
@@ -1741,12 +1746,7 @@
           },
           "title": "◈Lock Me Up◈",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=Ec5LpUjvutI\" data-toolbar=\"-mbrBtnMove\">Link</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=Ec5LpUjvutI\" data-toolbar=\"-mbrBtnMove\">Link</a>"
         },
         {
           "_inherit": "social-buttons2",
