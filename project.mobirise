@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.11",
     "uniqCompNum": 90,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -109,7 +109,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/j-1-179x128.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "introduction.html",
@@ -560,14 +560,14 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#7196f2",
-              "border-color": "#7196f2"
+              "background-color": "#b8312f",
+              "border-color": "#b8312f"
             }
           },
           "_name": "features7",
           "_anchor": "features7-1g",
           "_params": {
-            "iconsBgColor": "#7196f2",
+            "iconsBgColor": "#b8312f",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -756,8 +756,8 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW ME",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCpAFDzxi2EI-Rc33o0STWvw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "text": "SUBSCRIBE",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCN0HkdN_kQB8gA14T5vsbLg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
