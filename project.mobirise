@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -530,7 +530,7 @@
             }
           },
           "title": "A Little Bit About Me...",
-          "text": "I thought life would be something easy to handle. There will always be those days that feel like they are bringing me evn more down but they actually make me stronger. My name is Janelle Marquez. I attend Miami Arts Studios and am in the Technology Production Magnet. I have developed more skills when it comes to working in programs or features such as Adobe Photoshop, Adobe Premier, Microsoft Applications, etc.",
+          "text": "I thought life would be something easy to handle. There will always be those days that feel like they are bringing me even more down but they actually make me stronger. My name is Janelle Marquez. I attend Miami Arts Studios and am in the Technology Production Magnet. I have developed more skills when it comes to working in programs or features such as Adobe Photoshop, Adobe Premier, Microsoft Applications, etc.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"introduction.html#content2-1h\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
