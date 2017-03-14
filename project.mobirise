@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "photoshop.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.11",
     "uniqCompNum": 98,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.11",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -511,7 +511,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-6840-1400x2486-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bfvw3853-1400x1866.png",
               "link": "",
               "alt": "",
               "title": "",
